@@ -1,4 +1,4 @@
-Basic Crypto Converter is a simple program scripted with Python 2.6.11.
+Basic Crypto Converter is a simple program scripted with Python 2.7.11.
 
 30-Jul-2016:
 	The program currently allows to convert several Crypto including:
