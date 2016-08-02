@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Program developed by Kavier Koo for personal perposes
+#Script designed by Kavier for individual purposes with no copyright infringement intended
 import os , binascii, base64, hashlib	
 
 def hextoascii():
